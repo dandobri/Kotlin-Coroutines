@@ -1,2 +1,5 @@
-# Kotlin-Coroutines
-Studying coroutine handling in the Kotlin programming language.
+# Coroutines. Базовые возможности
+
+Задание состоит из нескольких модулей, каждый из которых содержит:
+- Описание задания в `Readme.md`
+- Решение в `src`
